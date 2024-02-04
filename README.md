@@ -1,7 +1,7 @@
 ### Hi there 👋
 -----------------------------------------------
 
-🔭 I’m looking to collaborate on Data Scientist, Machine Learning Engineer or AI Engineer<br><br>🌱 I’m currently learning AI<br><br>💬 Ask me about anything
+🔭 I’m looking to collaborate on Data Scientist, Machine Learning Engineer or AI Product Manager<br><br>🌱 I’m currently learning AI<br><br>💬 Ask me about anything
 
 
 
