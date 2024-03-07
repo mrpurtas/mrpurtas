@@ -1,6 +1,5 @@
 ### Hi there 👋
 -----------------------------------------------
-
 <br>🌱 I’m currently learning AI and AWS <br><br>💬 Ask me about anything
 
 
