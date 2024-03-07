@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-purta%C5%9F-66850b183/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrpurtas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-purta%C5%9F-66850b183/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrpurtas) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/mrpurtas)
 
 
 # 💻 Tech Stack:
@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mrpurtas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![Snake animation](https://github.com/armantunga/armantunga/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mrpurtas/blob/output/github-contribution-grid-snake.gif)
 
 
 ---
