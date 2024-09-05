@@ -1,6 +1,6 @@
 ### Hi there 👋
 -----------------------------------------------
-🌱 I’m currently learning AI and AWS <br><br>💬 Ask me about anything
+🌱 Continuous Learner in AI, Data Engineering, and Cloud Technologies | Building Skills for the Data-Driven Future
 <br>
 
 
